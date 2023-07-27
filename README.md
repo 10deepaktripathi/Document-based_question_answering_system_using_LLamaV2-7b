@@ -3,18 +3,23 @@ I have tried exploring LLama-v2-7b model with chroma db and langchain to create 
 
 Below are the sample result:
 
-# Quest1:   what does Deepak Tripathi do?
+
+# Quest1:   who is Deepak Tripathi's academic supervisor
 # Result
 
 ![Chart](charts/ques1.png)
 
+# Quest2:   what does Deepak Tripathi do?
+# Result
 
-# Quest2:   what main skills Deepak Tripathi has?
+![Chart](charts/ques4.png)
+
+
+
+# Quest3:   what main skills Deepak Tripathi has?
 # Result
 
 ![Chart](charts/ques2.png)
 
-# Quest3:   what was the conclusion of the project Deepak Tripathi worked on?
-# Result
 
-![Chart](charts/ques4.png)
+
