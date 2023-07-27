@@ -6,13 +6,13 @@ Below are the sample result:
 
 # Quest1:   who is Deepak Tripathi's academic supervisor
 # Result
+![Chart](charts/ques4.png)
 
-![Chart](charts/ques1.png)
 
 # Quest2:   what does Deepak Tripathi do?
 # Result
 
-![Chart](charts/ques4.png)
+![Chart](charts/ques1.png)
 
 
 
