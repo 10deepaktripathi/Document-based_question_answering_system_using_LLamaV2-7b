@@ -22,4 +22,3 @@ Below are the sample result-
 ![Chart](charts/ques2.png)
 
 
-
