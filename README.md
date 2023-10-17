@@ -20,3 +20,4 @@ Below are the sample result-
 # Result
 
 ![Chart](charts/ques2.png)
+
